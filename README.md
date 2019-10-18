@@ -24,7 +24,7 @@ When data from the TCCW-R Dataset are used in a scholarly article or presentatio
 
 	Zhang, Jishi and Lin, Yanluan, 2019: TCCW-R: The Tropical Cyclone Cold Wake Size (TCCW-R) Dataset (Version 1.0). 
              Ministry of Education Key Laboratory for Earth System Modeling, Department of Earth System Science,       
-	   Tsinghua University, Beijing, China. [Available online at: https://doi.pangaea.de/10.1594/PANGAEA.907551.]
+	     Tsinghua University, Beijing, China. [Available online at: https://doi.pangaea.de/10.1594/PANGAEA.907551.]
 
 
 Relevant references for any use of the QSCAT-R Dataset:
