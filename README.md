@@ -1,6 +1,7 @@
 # TCCW-R dataset 
 
 The cold wake size dataset (TCCW-R) is TCCW-R_individual_cyclones.zip.
+
 *Supplement to: Zhang, Jishi; Lin, Yanluan; Chavas, Daniel R; Mei, Wei (2019): Tropical cyclone cold wake size and its applications to power dissipation and ocean heat uptake estimates. Geophysical Research Letters, 46(16), 10177-10185, https://doi.org/10.1029/2019gl083783
 
 Introduction:
